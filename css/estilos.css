@@ -1,0 +1,32 @@
+body{
+	background-color: #FFAC6B;
+}
+#menu_izq{
+	font-size: 20px;
+	display: inline-block; vertical-align: top;
+	padding: 20px;
+}
+
+a{
+	text-decoration-line: none;
+}
+
+h1{
+	font-family: 'Pacifico',cursive;
+}
+
+.imagenes{
+	display: inline-block;
+}
+
+.imagen{
+	display: inline-block;
+	padding-right: 30px;
+	padding-left: 50px;
+
+}
+
+.imagen p{
+	text-align: center;
+	font-size: 18px;
+}
