@@ -1,18 +1,33 @@
-body{
+/*body{
 	background-color: #FFAC6B;
+}*/
+
+header{
+	background-position: center center;
+	background-repeat: no-repeat; 
+	background-image: 'fondo rosa-turquesa.jpg';
+	height: 188px;
 }
+
 #menu_izq{
 	font-size: 20px;
 	display: inline-block; vertical-align: top;
 	padding: 20px;
+	color: red;
+}
+
+li{
+	list-style-type: none;
 }
 
 a{
 	text-decoration-line: none;
+	color: #FF0000;
 }
 
 h1{
-	font-family: 'Pacifico',cursive;
+	font-family: 'Saira', sans-serif;
+	text-align: center;
 }
 
 .imagenes{
@@ -30,3 +45,14 @@ h1{
 	text-align: center;
 	font-size: 18px;
 }
+
+p{
+	font-family: 'Saira', sans-serif;
+}
+
+footer{
+	margin: 10px auto 20px;
+	text-align: center;
+
+}
+
